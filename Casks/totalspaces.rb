@@ -1,6 +1,6 @@
 cask 'totalspaces' do
-  version '2.6.24'
-  sha256 'd1c2a07df31b85648d94cee806448c7e78a6de35eef6635b1ec9fe7627601e91'
+  version '2.7.6'
+  sha256 '2d37147f4c80dfc6c25f9d7cda2c4c4c448d80512a91ac288b90df9ae2b46db2'
 
   url "http://downloads.binaryage.com/TotalSpaces#{version.major}-#{version}.dmg"
   appcast "http://updates-s3.binaryage.com/totalspaces#{version.major}.xml"
